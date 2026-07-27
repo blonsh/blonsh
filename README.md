@@ -1,8 +1,6 @@
 <div align="center">
 <h1 align="center">Hi there! <a href="https://aristi.dev">I'm Blanca </a> 👋</h1>
 </div>
-<img src="https://github.com/blonsh/blonsh/blob/main/kentbeck_quote.jpg">
-
 
 ## About Me:
 Junior QA Engineer transitioning from the world of Business Administration. Today I don't write financial reports, I write bug reports (and with more enthusiasm). 
